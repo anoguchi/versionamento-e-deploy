@@ -1,0 +1,13 @@
+C:\Beto\Dev\Itau\Engenharia_automacao\Modulo_01\app\Modulo_01\Modulo_01\bin\Debug\netcoreapp3.1\Modulo_01.exe
+C:\Beto\Dev\Itau\Engenharia_automacao\Modulo_01\app\Modulo_01\Modulo_01\bin\Debug\netcoreapp3.1\Modulo_01.deps.json
+C:\Beto\Dev\Itau\Engenharia_automacao\Modulo_01\app\Modulo_01\Modulo_01\bin\Debug\netcoreapp3.1\Modulo_01.runtimeconfig.json
+C:\Beto\Dev\Itau\Engenharia_automacao\Modulo_01\app\Modulo_01\Modulo_01\bin\Debug\netcoreapp3.1\Modulo_01.runtimeconfig.dev.json
+C:\Beto\Dev\Itau\Engenharia_automacao\Modulo_01\app\Modulo_01\Modulo_01\bin\Debug\netcoreapp3.1\Modulo_01.dll
+C:\Beto\Dev\Itau\Engenharia_automacao\Modulo_01\app\Modulo_01\Modulo_01\bin\Debug\netcoreapp3.1\Modulo_01.pdb
+C:\Beto\Dev\Itau\Engenharia_automacao\Modulo_01\app\Modulo_01\Modulo_01\obj\Debug\netcoreapp3.1\Modulo_01.csproj.AssemblyReference.cache
+C:\Beto\Dev\Itau\Engenharia_automacao\Modulo_01\app\Modulo_01\Modulo_01\obj\Debug\netcoreapp3.1\Modulo_01.AssemblyInfoInputs.cache
+C:\Beto\Dev\Itau\Engenharia_automacao\Modulo_01\app\Modulo_01\Modulo_01\obj\Debug\netcoreapp3.1\Modulo_01.AssemblyInfo.cs
+C:\Beto\Dev\Itau\Engenharia_automacao\Modulo_01\app\Modulo_01\Modulo_01\obj\Debug\netcoreapp3.1\Modulo_01.csproj.CoreCompileInputs.cache
+C:\Beto\Dev\Itau\Engenharia_automacao\Modulo_01\app\Modulo_01\Modulo_01\obj\Debug\netcoreapp3.1\Modulo_01.dll
+C:\Beto\Dev\Itau\Engenharia_automacao\Modulo_01\app\Modulo_01\Modulo_01\obj\Debug\netcoreapp3.1\Modulo_01.pdb
+C:\Beto\Dev\Itau\Engenharia_automacao\Modulo_01\app\Modulo_01\Modulo_01\obj\Debug\netcoreapp3.1\Modulo_01.genruntimeconfig.cache
